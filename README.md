@@ -1,3 +1,12 @@
+
+Tecnologia usada:
+Python 3
+Anaconda
+
+Bibliotecas:
+numpy 
+
+
 O dataset utilizado é um estudo que foi realizado usando células cancerigenas 
 que causam o câncer de mama, por sua vez o dataset usa parâmetro de imagens que
 possui várias caracteríscas para dizer o a célula é benigna ou maligna. 
